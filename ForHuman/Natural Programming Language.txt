@@ -1,0 +1,2 @@
+声明变量 total 初始值为 0。
+声明一个对象 obj，其类型为 GameObject；
