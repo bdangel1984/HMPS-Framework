@@ -1,0 +1,102 @@
+声明变量
+	类型
+		int
+	名称
+		x
+	赋值
+		1
+结束声明变量
+
+如果
+	条件为真
+		x > 10
+	代码块开始
+		Console.WriteLine("x is greater than 10");
+		Console.WriteLine("x is greater than 10");
+		代码块开始
+			Console.WriteLine(i);
+		代码块结束
+		Console.WriteLine("x is greater than 10");
+	代码块结束
+结束如果
+
+循环操作
+	初始操作
+		int i = 0
+	条件判断
+		i < 10
+	循环结束操作
+		i++
+	代码块开始
+		Console.WriteLine(i);
+	代码块结束
+结束循环操作
+
+调用函数
+	方法名
+		PrintMessage
+	参数列表
+		"Hello, World!"
+		x
+结束调用函数
+
+函数定义
+	方法名
+		PrintMessage
+	返回类型
+		void
+	参数列表
+		string message
+		string message
+		string message
+	代码块开始
+		Console.WriteLine(message);
+		Console.WriteLine(message);
+		Console.WriteLine(message);
+		Console.WriteLine(message);
+		代码块开始
+			Console.WriteLine("Nested block");
+			Console.WriteLine("Nested block");
+			Console.WriteLine("Nested block");
+			Console.WriteLine("Nested block");
+		代码块结束
+		Console.WriteLine(x);
+		Console.WriteLine(message);
+		Console.WriteLine(message);
+		Console.WriteLine(message);
+		Console.WriteLine(message);
+	代码块结束
+结束函数定义
+
+数组声明
+	类型
+		int
+	变量名
+		arr
+	长度
+		5
+结束数组声明
+
+函数定义
+	方法名
+		PrintMessage
+	返回类型
+		void
+	参数列表
+		string message
+		int x
+	代码块开始
+		声明变量
+			类型
+				int
+			名称
+				y
+			赋值
+				5
+		结束声明变量
+		代码块开始
+			Console.WriteLine("Nested block");
+		代码块结束
+		Console.WriteLine(x);
+	代码块结束
+结束函数定义
